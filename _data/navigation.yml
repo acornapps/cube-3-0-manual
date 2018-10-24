@@ -7,7 +7,7 @@
 # documentation links
 docs:
   - title: "Introduction"
-    url: /docs/0/
+    url: /
   - title: "Commands"
     url: /docs/1/
     children:

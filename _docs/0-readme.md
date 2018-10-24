@@ -1,7 +1,7 @@
 ---
 title: "Cube Introduction"
 excerpt: ""
-permalink: /docs/0/
+permalink: /
 redirect_from:
   - /theme-setup/
 toc: false
