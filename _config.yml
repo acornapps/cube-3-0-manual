@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "cube Menual 3.0"
+title                    : "Cube Manual 3.0"
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
